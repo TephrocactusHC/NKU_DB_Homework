@@ -1,3 +1,4 @@
+$\color{red}{NKU同学参考的话请给STAR}$
 # NKU_DB_Homework
 数据库大作业
 
